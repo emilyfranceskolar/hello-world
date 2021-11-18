@@ -1,0 +1,28 @@
+
+body{
+    color:indigo;
+
+}
+nav{
+    text-align: center;
+    border-style:dotted;
+
+}
+p {
+    font-family: sans-serif, Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.blueFont {
+    font-family:Arial, Helvetica, sans-serif;
+    color:blue;
+}
+
+img {
+    min-width:40%;
+}
+
+.firstItem {
+    font-size: xx-large;
+}
